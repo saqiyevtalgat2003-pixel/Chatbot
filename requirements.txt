@@ -1,2 +1,0 @@
-python-telegram-bot[webhooks]==21.4
-markovify==0.9.4

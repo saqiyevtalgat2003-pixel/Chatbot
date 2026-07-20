@@ -1,9 +1,0 @@
-node_modules
-.next
-.env.local
-.env*.local
-.vercel
-.DS_Store
-tsconfig.tsbuildinfo
-next-env.d.ts
-package-lock.json
